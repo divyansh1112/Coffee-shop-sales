@@ -1,5 +1,4 @@
 ☕ Coffee Shop Sales Analysis – Excel Dashboard
-
 This project analyzes sales performance, customer behavior, and product trends for a coffee shop using Excel. The dashboard provides interactive filters for Month and Day, enabling dynamic insights.
 
 🔑 Key Highlights:
